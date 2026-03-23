@@ -3,3 +3,8 @@ hidenaga
     syuuko
     kouhei
     yuusuke
+
+    chiori
+    yuiko
+        koharu
+        
