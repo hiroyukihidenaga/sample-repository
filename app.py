@@ -7,4 +7,9 @@ hidenaga
     chiori
     yuiko
         koharu
-        
+
+kako
+    sigeru
+    sizuko
+    okazaki taka
+    
